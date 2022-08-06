@@ -2,7 +2,7 @@
 
 FerosDAM is a Digital Asset Manager founded by Raunchy Santa; completely free to all individuals, teams and professional studios. 
 
-Engage in a plethora of features; aiding in development of digital access.
+Engage in a plethora of features; aiding in development of digital assets.
 
 ### Terms of Use
 
